@@ -1,0 +1,2 @@
+[darglint]
+message_template={path}:{line} object:{obj} -> {msg_id}: {msg}
